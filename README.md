@@ -1,7 +1,7 @@
 # Software-Data-Projects
 
 ## Power BI Sales DashBoard
-
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)
 
 ## Data Analytics<br>
 **Power BI Data Analysis**: [https://github.com/JenkinHe/Data-Analytics-PowerBI] - Processing and Visualising Data on a Dashboard using Power BI.<br>
