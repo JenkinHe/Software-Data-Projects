@@ -1,10 +1,13 @@
 # Software-Data-Projects
 
 ## Power BI Sales DashBoard
-![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)<br>
+**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Sales-Insight-Data] - Data Visualisation of Sales data in the form of a Power BI dashboard.<br>
+
 
 ## Data Analytics<br>
 **Power BI Data Analysis**: [https://github.com/JenkinHe/Data-Analytics-PowerBI] - Processing and Visualising Data on a Dashboard using Power BI.<br>
+**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Sales-Insight-Data] - Data Visualisation of Sales data in the form of a Power BI dashboard.<br>
 **Tableau Data Analysis**: [https://github.com/JenkinHe/Data-Analytics-Tableau-AirbnbData] - Visualising and analysing Airbnb Data Project with Tableau Public.<br>
 **My SQL Data Analysis**: [https://github.com/JenkinHe/MySQL-Data-Cleaning-Project] - A Data Analytics project where Data on layoffs is cleaned, standardised, and analysed using MySQL.<br>
 **Excel Data Cleaning and Data Analysis**:[https://github.com/JenkinHe/Excel-Data-Cleaning] - Data Analytics of bike purchases over multiple categories cleaned and analysed with Microsoft Excel.<br>
