@@ -2,7 +2,12 @@
 
 ## Power BI Sales DashBoard
 ![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)<br>
-**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Sales-Insight-Data] - Data Visualisation of Sales data in the form of a Power BI dashboard.<br>
+**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Sales-Insight-Data] - Data Visualisation of Sales data in Power BI dashboard.<be>
+
+## Plant Company Sales DashBoard (Power BI)
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Plant%20Sales%20Dashboard.png)<br>
+**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Plant-Company-Sales] - Data Visualisation of Plant Sales data in Power BI dashboard for shareholder insights.<br>
+
 
 
 ## Data Analytics<br>
