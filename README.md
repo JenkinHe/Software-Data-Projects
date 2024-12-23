@@ -2,7 +2,7 @@
 
 ## Plant Company Sales DashBoard (Power BI)
 ![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Plant%20Sales%20Dashboard.png)<br>
-**Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Plant-Company-Sales] - Data Visualisation of Plant Sales data in Power BI dashboard for shareholder insights.<br>
+**Plant Company Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Plant-Company-Sales] - Data Visualisation of Plant Sales data in Power BI dashboard for shareholder insights.<br>
 
 ## Generic Company Sales DashBoard (Power BI)
 ![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)<br>
