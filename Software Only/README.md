@@ -1,5 +1,10 @@
 # Software Engineering Projects<br>
 
+## Diary App (ASP.Net(MVC) ,C# , SQL Server Management Studio 20)
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Software%20Only/Software%20Snapshots/DiaryAppView.png)<br>
+
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Software%20Only/Software%20Snapshots/DiaryAppCreate.png)<br>
+*Diary App**: [https://github.com/JenkinHe/DiaryApp-ASP.Net-MVC] - Diary App using ASP.Net(MVC) with C# and basic html and bootstrap components to demonstrate CRUD Operations .<br>
 
 ## Java<br>
 **Runner REST API**: [https://github.com/JenkinHe/Fitness-Application-RESTAPI-SpringBoot3]-  a project that utilises Spring Boot to create a simple API that can create, read, update and delete data to a local database.<br>
