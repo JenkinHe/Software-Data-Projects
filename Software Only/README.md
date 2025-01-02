@@ -14,7 +14,7 @@
 **Google Docs Clone**:[Private]: simple full stack clone of Google Docs using ASP.Net Core.<br>
 **Menu View Application**:[https://github.com/JenkinHe/ASP.NET-Core-Projects]: simple full stack menu view app, applying MVC methodologies.<br>
 ## Python<br>
-TensorFlow: [https://github.com/JenkinHe/Machine-Learning-TensorFlow-Python]- a simple project that applies common prediction models and neural networks using TensorFlow libraries.<br>
+**TensorFlow**: [https://github.com/JenkinHe/Machine-Learning-TensorFlow-Python]- a simple project that applies common prediction models and neural networks using TensorFlow libraries.<br>
 
 ## Web Development (HTML/CSS/JavaScript/React)<br>
 **IPhone website**: [https://github.com/JenkinHe/Phone-Website-Clone-Nextjs-GSAP-Threejs]  -Simple clone of an iPhone website with a dark aesthetic using gsap for animation and Three.js for 3D models.<br>
