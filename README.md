@@ -2,7 +2,7 @@
 
 ## HR DashBoard (Power BI)
 ![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/HR%20dashboard.png)<br>
-*HR Data Analysis**: [https://github.com/JenkinHe/PowerBI-HR-Data-Analysis] - Data Visualisation of HR of a generic company to provide further insights.<br>
+**HR Data Analysis**: [https://github.com/JenkinHe/PowerBI-HR-Data-Analysis] - Data Visualisation of HR of a generic company to provide further insights.<br>
 
 ## Plant Company Sales DashBoard (Power BI)
 ![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Plant%20Sales%20Dashboard.png)<br>
