@@ -1,15 +1,15 @@
 # Software-Data-Projects
 
 ## HR DashBoard (Power BI)
-![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/HR%20dashboard.png)<br>
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Data%20Analytics%20SnapShots/HR%20dashboard.png)<br>
 **HR Data Analysis**: [https://github.com/JenkinHe/PowerBI-HR-Data-Analysis] - Data Visualisation of HR of a generic company to provide further insights.<br>
 
 ## Plant Company Sales DashBoard (Power BI)
-![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Plant%20Sales%20Dashboard.png)<br>
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Data%20Analytics%20SnapShots/Plant%20Sales%20Dashboard.png)<br>
 **Plant Company Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Plant-Company-Sales] - Data Visualisation of Plant Sales data in Power BI dashboard for shareholder insights.<br>
 
 ## Generic Company Sales DashBoard (Power BI)
-![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Sales%20Dashboard.png)<br>
+![GitHub Logo](https://github.com/JenkinHe/Software-Data-Projects/blob/main/Data%20Analytics%20SnapShots/Sales%20Dashboard.png)<br>
 **Sales Data Analysis**: [https://github.com/JenkinHe/PowerBI-Sales-Insight-Data] - Data Visualisation of Sales data in Power BI dashboard.<be>
 
 ## Data Analytics<br>
